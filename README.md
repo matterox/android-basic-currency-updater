@@ -6,3 +6,5 @@ What can be improved:
 - Use dagger to provide and inject dependencies (Such as repository)
 - Add mappers
 - Don't use `notifyDataSetChanged()` in adapter, it's bad practice. Use `notifyItemInserted()` instead. Or better yet, use `DiffUtil`
+- Unit Tests
+- UI Tests
