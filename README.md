@@ -11,3 +11,5 @@ What can be improved:
 - Unit Tests
 - UI Tests
 - Lint checks
+- View binding
+- Base classes for ViewModel, Activity, Adapter
